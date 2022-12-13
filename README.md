@@ -12,3 +12,5 @@ Go to the <code> self.py </code> file :
 - 📌67 =>  **Name Your Account** => Put your account name after first_name
 
 - 📌 If you gave an order to the robot and it didn't answer, type **help** in your save message and send it.
+
+### Run :
