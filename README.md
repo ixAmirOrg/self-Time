@@ -1,11 +1,11 @@
 # 🤖 Self Time For Telegram Account
-- 🔥This is a comment occupying bot for use in Telegram.
+- 🔥This is a robot that adjusts the time on the name and bio of the Telegram account.
 - ⚡️ [click here for connect to author](https://t.me/ixAmir.com)
 ## ⚙️Edit :
 
-Go to the <code> bot.php </code> file :
+Go to the <code> self.py </code> file :
 
-- 📌9 => **Bot Token** => You can get the token from the [Bot Father](https://t.me/botfather) 🤖
+- 📌20 , 21 => **Api ID & Api hash** => You can get the token from the [Bot Father](https://t.me/botfather) 🤖
 
 - 📌109 =>  **numeric ID / user id Admin** => You can get the token from the [User info](https://t.me/userinfoBot) 🤖
 
