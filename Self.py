@@ -19,7 +19,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 
-api_id = "000000" #api id
+api_id = 000000 #api id
 
 api_hash = "000000" #api hash
 
