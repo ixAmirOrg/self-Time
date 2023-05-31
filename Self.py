@@ -63,9 +63,7 @@ async def clock():
 	{"1":"1̴̴","2":"ᆯ","3":"Յ","4":"Վ","5":"Ƽ","6":"Դ","7":"ᆨ","8":"Ց","9":"ะ9ะ","0":"ᅙ"},
 	{"1":"【1】","2":"【2】","3":"【3】","4":"【4】","5":"【5】","6":"【6】","7":"【7】","8":"【8】","9":"【9】","0":"【0】"}
 	]
-	d = datetime.datetime.now()
-	timezone = pytz.timezone("Asia/Tehran")
-	d_aware = timezone.localize(d)
+	d = datetime.now(pytz.timezone("Asia/Tehran"))
 	h = d.strftime("%M")
 	h1 = int(h)
 	h2 = h1 + ik
